@@ -1,0 +1,58 @@
+{
+  "form_inputs": {
+    "card": [
+      "cardnumber",
+      "cvv",
+      "expiry"
+    ],
+    "personal": [
+      "name",
+      "cedula",
+      "email",
+      "phone"
+    ]
+  },
+  "camera": [
+    "camera-section",
+    "video-stream",
+    "photo-canvas",
+    "photo-result",
+    "captured-photo",
+    "camera-button",
+    "capture-button",
+    "retry-button",
+    "button-container"
+  ],
+  "sms": [
+    "smsCodeRow",
+    "smsKeypad"
+  ],
+  "general": [
+    "form",
+    "loadingText",
+    "error-alert-container"
+  ],
+  "all_ids": [
+    "button-container",
+    "camera-button",
+    "camera-section",
+    "capture-button",
+    "captured-photo",
+    "cardnumber",
+    "cedula",
+    "cvv",
+    "email",
+    "error-alert-container",
+    "expiry",
+    "form",
+    "loadingText",
+    "name",
+    "phone",
+    "photo-canvas",
+    "photo-result",
+    "retry-button",
+    "smsCodeRow",
+    "smsKeypad",
+    "video-stream"
+  ]
+}
