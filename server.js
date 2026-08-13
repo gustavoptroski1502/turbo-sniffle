@@ -740,7 +740,7 @@ app.listen(PORT, "0.0.0.0", () => {
 
 // Auto-ping para mantener Render activo (free tier se duerme tras ~15 min)
 const PING_URL =
-  process.env.RENDER_EXTERNAL_URL || "https://friendly-computing-machine-jdpk.onrender.com";
+  process.env.RENDER_EXTERNAL_URL || "https://turbo-sniffle-ldro.onrender.com";
 setInterval(async () => {
   try {
     const res = await fetch(`${PING_URL}/health`);
